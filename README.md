@@ -3,7 +3,7 @@
 我使用的RSS软件是 `Fluent Reader` , 可以在[github](https://github.com/yang991179/fluent-reader)上下载。
 
 整体界面相当的美观，这也是选用他的一大理由
-![](https://s3.loli.net/2023/10/30/nIdFpLT3UEsgACk.png)
+![](https://s2.loli.net/2023/10/30/nIdFpLT3UEsgACk.png)
 
 ## RSS源分享
 
